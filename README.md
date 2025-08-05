@@ -3,6 +3,9 @@
 ### Module 1: Introduction to Problem Solving and Python Fundamentals (6 Hours)
 This module introduces the basics of problem solving using Python. Key concepts include the Problem Analysis Chart (PAC), robust and boundary test cases, algorithms, flowcharts, and pseudocode. Students will explore Python data types (numeric, boolean, and string), regular expressions, operators, expressions, and built-in functions.
 
+Regular Expression: Part 1: https://er-anandprem.medium.com/how-to-learn-regular-expressions-in-python-part-i-a1cfa1352131 
+                    Part 2: https://medium.com/@er-anandprem/how-to-learn-regular-expressions-in-python-part-ii-8f41a0547272 
+
 ### Module 2: Problem Solving Approaches and Control Flow Constructs (14 Hours)
 Learners will study structured problem-solving strategies such as top-down, bottom-up, divide and conquer, and backtracking. They will implement logic using control flow mechanisms including conditional statements, branching, looping, and flow-altering statements like break, continue, and pass.
 
